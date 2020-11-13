@@ -4,6 +4,9 @@
   <img src="https://github.com/MaxBezs/MaxBezs/blob/main/mainidea.png" alt="The main Ideas">
   ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS
 </p>
+
+**ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS**
+
 <p align="center">
   ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS
 </p>
