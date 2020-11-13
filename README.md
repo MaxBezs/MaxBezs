@@ -2,7 +2,7 @@
 
 ## Installation
 <img align="left" width="100" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/UI.jpg">
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png 23”>
 ## Usage
 
 ```python
