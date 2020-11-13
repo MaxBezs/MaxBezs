@@ -1,6 +1,6 @@
 <img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
 
-<img align="left" width="500" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.png">
+<img align="left" width="200" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.png">
 <a href="https://www.instagram.com/max_bezs/"><img align="left" width="100" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/UI.jpg"></a>
 - Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
