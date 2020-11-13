@@ -5,4 +5,4 @@
   <br/>
 </p>
 
-**This is bold text**
+**THIS IS BOLD TEXT**
