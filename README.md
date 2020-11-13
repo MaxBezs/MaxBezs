@@ -4,5 +4,7 @@
   <img src="https://github.com/MaxBezs/MaxBezs/blob/main/mainidea.png" alt="The main Ideas">
   ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS
 </p>
-
+<p align="center">
+  ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS
+</p>
 __KNOWLEDGE OF BIOLOGY WILL BE USED TO CREATE MECHANISMS OF AUTOMATION AND IMPROVE THE QUALITY OF HUMAN TREATMENT.__
