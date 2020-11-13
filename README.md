@@ -1,7 +1,7 @@
 <img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
 
 ## Installation
-<img align="left" width="100" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/UI.jpg">
+<img align="left" width="100" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.jpg">
 
 ## Usage
 
