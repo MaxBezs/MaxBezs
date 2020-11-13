@@ -2,7 +2,7 @@
 
 ## Installation
 <img align="left" width="100" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/UI.jpg">
-
+<div style="height:150; width:100; background:green"></div>
 ## Usage
 
 ```python
