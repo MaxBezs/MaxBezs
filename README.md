@@ -1,4 +1,4 @@
-<img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
 ### Screenshots/Images
 ------------------
 A picture is worth a thousand words.
