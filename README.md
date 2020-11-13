@@ -1,5 +1,6 @@
-<img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
 ### Screenshots/Images
+<img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
+
 ------------------
 <a href="https://www.instagram.com/max_bezs/">Instagram 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.turbosquid.com/ru/Search/Artists/Max_Bezs">TurboSquid</a>, a community for women and non-binary ReactJS developers.
 
