@@ -1,4 +1,5 @@
 <img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+____________________
 # Project Title
 An overview of **what** your project does/is about goes here
  
