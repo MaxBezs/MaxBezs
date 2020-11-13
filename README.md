@@ -1,7 +1,7 @@
 <img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
 
 <img src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.png">
-<img src="https://github.com/MaxBezs/MaxBezs/blob/main/%D0%A1%D0%BB%D0%BE%D0%B9%202.png">
+<img align="right" width="100" height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/%D0%A1%D0%BB%D0%BE%D0%B9%202.png">
 ## Usage
 
 ```python
