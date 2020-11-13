@@ -5,5 +5,5 @@
   <br/>
   ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS
 </p>
-<br/>
+
 __This will also be bold__
