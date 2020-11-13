@@ -1,7 +1,4 @@
 <img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
- Foobar
-
-Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
