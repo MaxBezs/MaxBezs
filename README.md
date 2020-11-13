@@ -6,3 +6,4 @@
   **ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS**
 </p>
 
+**This is bold text**
