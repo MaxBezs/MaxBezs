@@ -8,6 +8,7 @@
 
 __KNOWLEDGE OF BIOLOGY WILL BE USED TO CREATE MECHANISMS__<br/>
 __OF AUTOMATION AND IMPROVE THE QUALITY OF HUMAN TREATMENT.__
+
 <p align="center">
   TO CONTACT MY <a href="https://www.instagram.com/max_bezs/">INSTAGRAM…</a><br/>
   THERE ARE SOME 3D WORKS <a href="https://www.turbosquid.com/ru/Search/Artists/Max_Bezs">TURBO SQUID…</a> 
