@@ -2,9 +2,7 @@
   <img src="https://github.com/MaxBezs/MaxBezs/blob/main/headmain.png" alt="I AM MAX">
   <img align="left" src="https://github.com/MaxBezs/MaxBezs/blob/main/mainsphere.png" alt="My sphere">
   <img src="https://github.com/MaxBezs/MaxBezs/blob/main/mainidea.png" alt="The main Ideas">
-  
-  ### shopping list pt 1
+  ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS
 </p>
-__ON THE PAGE YOU CAN FIND MY AND FRIENDS PROJECTS__
 
 __KNOWLEDGE OF BIOLOGY WILL BE USED TO CREATE MECHANISMS OF AUTOMATION AND IMPROVE THE QUALITY OF HUMAN TREATMENT.__
