@@ -14,9 +14,9 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 <div class="allImgsConatainer">
 <div class="imgContainer">
-    <img height="150" src="/images/source/ilustracion_guia_03.jpg" width="150" /></div>
+    <img height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.png" /></div>
 <div class="imgContainer">
-    <img height="150" src="/images/source/ilustracion_guia_07.jpg" width="150" /></div>
+    <img height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.png" /></div>
 <div class="imgContainer">
-    <img height="150" src="/images/source/ilustracion_guia_04.jpg" width="150" /></div>
+    <img height="150" src="https://github.com/MaxBezs/MaxBezs/blob/main/sxxx.png" /></div>
 </div>
